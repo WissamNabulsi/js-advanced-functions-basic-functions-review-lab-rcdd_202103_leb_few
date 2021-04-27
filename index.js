@@ -4,5 +4,5 @@ function saturdayFun(activity="roller-skate") {
 }
 
 let mondayWork = function() {
-  return 'this monday i will go to the office';
+  return 'This Monday, I will go to the office.';
 }
